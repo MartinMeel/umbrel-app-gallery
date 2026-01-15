@@ -3,8 +3,8 @@ This repository stores all image assets for the apps from MartinMeel Umbrel App 
   Each app from the store has its own folder.
   Inside every folder, you’ll find:
 
-  icon.svg → the app icon used in the Umbrel App Store
-  1.jpg, 2.jpg, 3.jpg, ... → gallery images
+  - icon.svg → the app icon used in the Umbrel App Store
+  - 1.jpg, 2.jpg, 3.jpg, ... → gallery images
   
 All assets were previously hosted on Imgur and will now be stored within this repository for better reliability and long-term availability.
   
